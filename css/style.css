@@ -1,0 +1,118 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+header {
+    background-image: url(../img/background.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 33px 0 15px;
+}
+h1 {
+    font-family: 'Inter';
+    font-size: 40px;
+    font-weight: bold;
+    margin-left: 165px;
+}
+.toolbar {
+    background-color: rgb(255 255 255 / 78%);
+    padding: 25px 0 30px;
+    margin-top: 23px;
+    margin-bottom: 68px;
+}
+.container-for-toolbar {
+    width: 66.48%;
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+}
+.container-for-toolbar a {
+    display: inline-block;
+    text-decoration: none;
+    color: black;
+    font-family: 'Inter';
+    font-size: 27px;
+    
+}
+.container-for-toolbar a:hover {
+    text-shadow: 4px 5px 10px;
+}
+.main-text {
+    margin-left: 165px;
+    margin-bottom: 310px;
+}
+.main-text p {
+    font-family: 'Inter';
+    font-size: 24px;
+    font-weight: 700;
+    color: #f2ecec;
+    background-color: #000000c2;
+    border-radius: 6px;
+    width: fit-content;
+    padding: 7px;
+    margin-top: 5px;
+}
+.info {
+    margin-left: 229px;
+}
+.te {
+    width: 200px;
+    font-family: 'Inter';
+    font-size: 22px;
+    background-color: #ffffffc2;
+    border-radius: 18px;
+    padding: 7px;
+}
+button {
+    font-size: 14px;
+    width: 230px;
+    height: 50px;
+    /* border: 2ps solid black; */
+    border-radius: 50px;
+    background-color: #ffffff00;
+    margin-top: 14px
+}
+.info2-1 {
+    font-family: 'Inter';
+    font-size: 23px;
+    background-color: #ffffffc2;
+    border-radius: 6px;
+    width: fit-content;
+    padding: 5px;
+    margin-top: 5px;
+}
+.info2-2 {
+    font-family: 'Inter';
+    font-size: 11px;
+    background-color: #ffffffc2;
+    border-radius: 6px;
+    width: fit-content;
+    padding: 1px;
+    margin-top: 5px;
+}
+.info2 {
+    margin-top: 17px
+}
+.info {
+    display: flex;
+    justify-content: space-between;
+    width: 927px;
+}
+.tel-icon {
+    height: 63px;
+    margin-top: 6px;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
